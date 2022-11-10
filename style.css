@@ -32,6 +32,7 @@ body{
     0 0 0.4em var(--main-color);
     border-radius: 0.25em;
     position: relative;
+    background-color: none;
 }
 .style::before{
     content:'';
